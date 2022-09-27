@@ -13,8 +13,8 @@ With this application, you can see movies, search for the movie you want and fin
 
 ## Features
 
-1.A user should be able to search a movie name and see related results.
+A user should be able to search a movie name and see related results.
 
-2.A user should be able to click on a 'More Info' button and see related information about movie.
+A user should be able to click on a 'More Info' button and see related information about movie.
 
-3.A user should be able to see the details such as name, rate, primary info, release-date, original language and popularity belonging to the selected movie.
+A user should be able to see the details such as name, rate, primary info, release-date, original language and popularity belonging to the selected movie.
